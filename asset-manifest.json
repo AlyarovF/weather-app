@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlyarovF/uploadGit.git/static/css/main.a2c98963.css",
+    "main.js": "/AlyarovF/uploadGit.git/static/js/main.b41fc45f.js",
+    "static/media/warm-bg.jpg": "/AlyarovF/uploadGit.git/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/AlyarovF/uploadGit.git/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/AlyarovF/uploadGit.git/index.html",
+    "main.a2c98963.css.map": "/AlyarovF/uploadGit.git/static/css/main.a2c98963.css.map",
+    "main.b41fc45f.js.map": "/AlyarovF/uploadGit.git/static/js/main.b41fc45f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c98963.css",
+    "static/js/main.b41fc45f.js"
+  ]
+}
